@@ -6,5 +6,5 @@ What are some tools that are used for this and why are they used?
 
 The process of CI is essential to find and fix bugs quickly, improve the quality of the software, and accelerate the time to validate and release new updates. While CI means building, testing, and merging source code, whereas CD means developers go beyond the repository and release into the customer's production environment. CD can support the software to maintain a reliable version at any time, and the user of the service may receive the latest version of production as soon as possible, minimizing the effort to deploy. Some of the tools used in such CI/CD are Jenkins, CircleCi, Atlassian Bamboo, or GitLab which supports building pipelines for software development projects, establishing build automation, and automating deployment and testing. 
 
-Sourced from : https://www.redhat.com/en/topics/devops/what-is-ci-cd
+Sourced from : https://www.redhat.com/en/topics/devops/what-is-ci-cd , 
                https://about.gitlab.com/topics/ci-cd/
